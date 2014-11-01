@@ -1,7 +1,7 @@
 var fito = require('./index.js'),
 	config = require('./config.js');
 /*
-fito.getActivites(config.username,config.password,function(activities){
+fito.getActivities(config.username,config.password,function(activities){
 	console.log('data',activities);
 });
 
